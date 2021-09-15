@@ -1,7 +1,7 @@
 {
-  "version": "3.7.1",
+  "version": "3.8.1",
   "update": {
-    "version": "3.7",
+    "version": "3.8",
     "message": ""
   },
   "review": 0,
@@ -49,7 +49,7 @@
     ],
     "button": "我知道了"
   },
-  "filter_films_enable": 1,
+  "filter_films_enable" : 1,
   "filter_films": [
     "金瓶梅",
     "强奸",
@@ -193,6 +193,7 @@
   "play_source_error_hint_theater": "抱歉，该集播放源错误，请观看其它集或者稍后重试",
   "play_source_error_hint_theater_switch": "抱歉，该集播放源错误，请切换源或者观看其它集或者稍后重试",
   "playing_error_hint_theater": "抱歉，播放源片段出现错误，请重试后拖出此片段观看或者稍后重试",
+  "console_message_error": "Cannot read",
   "intercept_tags": [
     "in-page-push",
     "google",
