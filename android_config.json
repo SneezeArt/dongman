@@ -1,5 +1,5 @@
 {
-  "version": "5.3.4",
+  "version": "5.3.5",
   "update": {
     "version": "5.3",
     "message": "修复了一些问题"
@@ -10,7 +10,7 @@
     ".m3u8",
     ".mp4"
   ],
-  "limited": "0",
+  "limited": "1",
   "buffering_timeout": 30,
   "native_play": 1,
   "filter_results_enabled": 0,
