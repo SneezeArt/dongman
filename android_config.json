@@ -1,36 +1,70 @@
 {
-  "version": "2.9.0",
+  "version": "5.5.2",
   "update": {
-    "version": "2.9",
-    "message": ""
+    "version": "5.5",
+    "message": "修复了一些问题"
   },
+  "film_url": "https://www.nnyy6.top",
+  "film_url_host": "www.nnyy6.top",
+  "film_m3u8s": [
+    ".m3u8",
+    ".mp4"
+  ],
+  "limited": "0",
+  "buffering_timeout": 30,
+  "native_play": 1,
+  "filter_results_enabled": 0,
+  "online_play_source": "© 2018-2022 努努影院",
+  "appId": "",
   "review": 0,
   "swipes": [
     {
-      "title": "瑞克和莫蒂 第三季",
-      "img": "https://p2.pstatp.com/origin/ff8600014524aafa3111.jpg",
-      "href": "https://www.nunuyy.cc/dongman/1046.html"
+      "title": "国王排名",
+      "img": "https://pic.rmb.bdstatic.com/bjh/76d68aa4fe9063b0f2200c93b5dc59db.jpeg",
+      "href": "https://www.nunuyy.cc/dongman/91825.html"
     },
     {
-      "title": "进击的巨人 第三季",
-      "img": "https://p2.pstatp.com/origin/ff0400017b08eedc862f.jpg",
-      "href": "https://www.nunuyy.cc/dongman/4658.html"
+      "title": "鬼灭之刃 无限列车篇",
+      "img": "https://pic.rmb.bdstatic.com/bjh/2dcce90645ff69196e5f58998c6927af.jpeg",
+      "href": "https://www.nunuyy.cc/dongman/92031.html"
     },
     {
-      "title": "虫师 续章",
-      "img": "https://p2.pstatp.com/origin/ff9c00015edd3392524d.jpg",
-      "href": "https://www.nunuyy.cc/dongman/21240.html"
+      "title": "阴谋职场 第一季",
+      "img": "https://pic.rmb.bdstatic.com/bjh/c420a75893bb6bae9abeee70a84a7aa6.jpeg",
+      "href": "https://www.nunuyy.cc/dongman/92180.html"
     },
     {
-      "title": "JOJO的奇妙冒险",
-      "img": "https://p2.pstatp.com/origin/fe47000128623723adb4.jpg",
-      "href": "https://www.nunuyy.cc/dongman/6930.html"
+      "title": "一人之下",
+      "img": "https://pic.rmb.bdstatic.com/bjh/9b056e8b4d967c760eaa49b4a67ceef9.jpeg",
+      "href": "https://www.nunuyy.cc/dongman/90147.html"
+    }
+  ],
+  "swipes_new": [
+    {
+      "title": "国王排名",
+      "img": "https://pic.rmb.bdstatic.com/bjh/76d68aa4fe9063b0f2200c93b5dc59db.jpeg",
+      "href": "https://www.nunuyy.cc/dongman/91825.html"
+    },
+    {
+      "title": "鬼灭之刃 无限列车篇",
+      "img": "https://pic.rmb.bdstatic.com/bjh/2dcce90645ff69196e5f58998c6927af.jpeg",
+      "href": "https://www.nunuyy.cc/dongman/92031.html"
+    },
+    {
+      "title": "阴谋职场 第一季",
+      "img": "https://pic.rmb.bdstatic.com/bjh/c420a75893bb6bae9abeee70a84a7aa6.jpeg",
+      "href": "https://www.nunuyy.cc/dongman/92180.html"
+    },
+    {
+      "title": "一人之下",
+      "img": "https://pic.rmb.bdstatic.com/bjh/9b056e8b4d967c760eaa49b4a67ceef9.jpeg",
+      "href": "https://www.nunuyy.cc/dongman/90147.html"
     }
   ],
   "drawer": {
     "txt": "不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。",
     "author": "《千与千寻》",
-    "bg": "https://p2.pstatp.com/origin/ff3e00010e557b0f9fad.jpg"
+    "bg": "https://ss0.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1686165200,1039892362&fm=26&gp=0.jpg"
   },
   "announce": {
     "show": "1",
@@ -49,8 +83,9 @@
     ],
     "button": "我知道了"
   },
-  "filter_films_enable": 1,
+  "filter_films_enable" : 1,
   "filter_films": [
+    "键",
     "金瓶梅",
     "强奸",
     "性",
@@ -182,8 +217,34 @@
     "九歌",
     "魔鬼天使",
     "卿狂",
-    "危情"
+    "危情",
+    "豪放",
+    "情欲",
+    "奸情",
+    "小姨子",
+    "黑天使",
+    "珍品",
+    "强我",
+    "疯情",
+    "灵与欲",
+    "上位",
+    "青楼",
+    "囡囡",
+    "不扣钮的女孩",
+    "爱奴",
+    "低俗",
+    "情事",
+    "青春珊瑚岛",
+    "女集中营",
+    "娜塔莉",
+    "恋之罪",
+    "不夜城",
+    "解救吾先生",
+    "困惑的浪漫",
+    "交换的一天",
+    "幸福出租车"
   ],
+  "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
   "search_hint_text": "请输入关键词，如\"海贼王\"",
   "play_no_source_hint": "抱歉，该影片暂无播放源，请切换源或者观看其它影片或者稍后重试",
@@ -193,6 +254,7 @@
   "play_source_error_hint_theater": "抱歉，该集播放源错误，请观看其它集或者稍后重试",
   "play_source_error_hint_theater_switch": "抱歉，该集播放源错误，请切换源或者观看其它集或者稍后重试",
   "playing_error_hint_theater": "抱歉，播放源片段出现错误，请重试后拖出此片段观看或者稍后重试",
+  "console_message_error": "Cannot read",
   "intercept_tags": [
     "in-page-push",
     "google",
