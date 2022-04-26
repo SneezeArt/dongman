@@ -1,5 +1,5 @@
 {
-  "version": "5.6.1",
+  "version": "5.6.2",
   "update": {
     "version": "5.6",
     "message": "修复了一些问题"
@@ -40,6 +40,12 @@
     }
   ],
   "swipes_new": [
+    {
+      "title": "电视直播 IPTV网络电视 广播电台",
+      "img": "https://coldstone1900.github.io/tv/support/ad1.png",
+      "href": "https://play.google.com/store/apps/details?id=com.douglassmaster.tv",
+      "type": 1
+    },
     {
       "title": "鬼灭之刃 游郭篇",
       "img": "https://i0.hdslb.com/bfs/article/f0c1500d2009bccc45945348be5133fbd30e5b31.png@942w_531h_progressive.webp",
