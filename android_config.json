@@ -1,5 +1,5 @@
 {
-  "version": "5.7.1",
+  "version": "5.7.2",
   "update": {
     "version": "5.7",
     "message": "修复了一些问题"
@@ -19,14 +19,19 @@
     "title_vip": "您享有以下权利：",
     "items": [
       {
-        "icon": "ds_pro_ad.png",
-        "title": "无广告",
-        "subtitle": "免除广告打扰，一个纯粹的动漫app"
+        "icon": "ds_dianshi.png",
+        "title": "观看所有动漫",
+        "subtitle": "在线观看超过10000部高清动漫"
       },
       {
-        "icon": "ds_dianshi.png",
-        "title": "观看所有电视剧",
-        "subtitle": "在线观看超过10000部高清动漫"
+        "icon": "ds_hot.png",
+        "title": "资源实时更新",
+        "subtitle": "超多热门动漫实时同步"
+      },
+      {
+        "icon": "ds_pro_ad.png",
+        "title": "无广告",
+        "subtitle": "免除广告打扰，一个纯粹的电视剧app"
       }
     ],
     "unlock_hint": "此为一次性付费，解锁后永久免费使用所有功能"
