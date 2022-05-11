@@ -1,7 +1,7 @@
 {
-  "version": "5.7.3",
+  "version": "5.8.1",
   "update": {
-    "version": "5.7",
+    "version": "5.8",
     "message": "修复了一些问题"
   },
   "film_url": "https://www.nnyy6.top",
@@ -11,6 +11,7 @@
     ".mp4"
   ],
   "limited": "0",
+  "limited_date": "1",
   "upgrade_desc": "您是否需要升级专业版解锁所有动漫？",
   "in_app_productId": "android.com.sneeze.dongman.removeads",
   "vipbg": "https://sneezeart.github.io/dianshiju/film_bg.jpeg",
@@ -78,7 +79,7 @@
     },
     {
       "title": "完美世界",
-      "img": "https://pic.rmb.bdstatic.com/bjh/89c2b9bb61fd3218a91a7468ed4984c5.jpeg",
+      "img": "https://inews.gtimg.com/newsapp_bt/0/13446522328/1000",
       "href": "https://www.nnyy6.top/dongman/86774.html"
     },
     {
