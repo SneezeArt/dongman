@@ -1,5 +1,5 @@
 {
-  "version": "5.8.1",
+  "version": "5.8.2",
   "update": {
     "version": "5.8",
     "message": "修复了一些问题"
@@ -11,7 +11,7 @@
     ".mp4"
   ],
   "limited": "0",
-  "limited_date": "1",
+  "limited_date": "0",
   "upgrade_desc": "您是否需要升级专业版解锁所有动漫？",
   "in_app_productId": "android.com.sneeze.dongman.removeads",
   "vipbg": "https://sneezeart.github.io/dianshiju/film_bg.jpeg",
