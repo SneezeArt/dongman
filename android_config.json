@@ -1,5 +1,5 @@
 {
-  "version": "5.9.2",
+  "version": "5.9.3",
   "update": {
     "version": "5.9",
     "message": "修复了播放过程中自动熄屏问题，优化了播放体验"
@@ -66,6 +66,12 @@
     }
   ],
   "swipes_new": [
+    {
+      "title": "电视直播极速TV 新闻节目直播 广播电台 IPTV网络电视",
+      "img": "https://coldstone1900.github.io/tv/support/ad1.png",
+      "href": "https://play.google.com/store/apps/details?id=com.douglassmaster.tv",
+      "type": 1
+    },
     {
       "title": "鬼灭之刃 游郭篇",
       "img": "https://i0.hdslb.com/bfs/article/f0c1500d2009bccc45945348be5133fbd30e5b31.png@942w_531h_progressive.webp",
