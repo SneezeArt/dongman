@@ -1,8 +1,8 @@
 {
-  "version": "5.9.1",
+  "version": "5.9.2",
   "update": {
     "version": "5.9",
-    "message": "修复了一些问题"
+    "message": "修复了播放过程中自动熄屏问题，优化了播放体验"
   },
   "film_url": "https://www.nnyy6.top",
   "film_url_host": "www.nnyy6.top",
