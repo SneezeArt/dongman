@@ -1,8 +1,8 @@
 {
-  "version": "5.9.7",
+  "version": "6.0.1",
   "update": {
-    "version": "5.9",
-    "message": "修复了播放过程中自动熄屏问题，优化了播放体验"
+    "version": "6.0",
+    "message": "修复了一些问题，优化了播放体验"
   },
   "film_url": "https://www.dandanzan10.top",
   "film_url_host": "www.dandanzan10.top",
@@ -10,6 +10,8 @@
     ".m3u8",
     ".mp4"
   ],
+  "transition": 0,
+  "review": 0,
   "limited": "0",
   "limited_date": "0",
   "upgrade_desc": "您是否需要升级专业版解锁所有动漫？",
@@ -42,7 +44,6 @@
   "filter_results_enabled": 0,
   "online_play_source": "© 2018-2022",
   "appId": "",
-  "review": 0,
   "swipes": [
     {
       "title": "国王排名",
