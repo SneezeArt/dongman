@@ -1,5 +1,5 @@
 {
-  "version": "6.0.2",
+  "version": "6.0.3",
   "update": {
     "version": "6.0",
     "message": "修复了一些问题，优化了播放体验"
@@ -12,8 +12,8 @@
   ],
   "transition": 1,
   "review": 0,
-  "limited": "0",
-  "limited_date": "0",
+  "limited": "1",
+  "limited_date": "1",
   "upgrade_desc": "您是否需要升级专业版解锁所有动漫？",
   "in_app_productId": "android.com.sneeze.dongman.removeads",
   "vipbg": "https://sneezeart.github.io/dianshiju/film_bg.jpeg",
