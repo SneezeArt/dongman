@@ -1,5 +1,5 @@
 {
-  "version": "6.2.2",
+  "version": "6.2.4",
   "update": {
     "version": "6.2",
     "message": "修复了一些问题，优化了播放体验"
@@ -73,26 +73,26 @@
       "href": "https://play.google.com/store/apps/details?id=com.coldstone.topmusic",
       "type": 1
     },
-    {
-      "title": "鬼灭之刃 游郭篇",
-      "img": "https://i0.hdslb.com/bfs/article/f0c1500d2009bccc45945348be5133fbd30e5b31.png@942w_531h_progressive.webp",
-      "href": "https://www.nnyy6.top/dongman/93717.html"
-    },
-    {
-      "title": "完美世界",
-      "img": "https://inews.gtimg.com/newsapp_bt/0/13446522328/1000",
-      "href": "https://www.nnyy6.top/dongman/86774.html"
-    },
-    {
-      "title": "武神主宰",
-      "img": "http://p3.bdxiguaimg.com/img/tos-cn-i-0004/2590b4701a414de39f059bf4ae3c237e~c5_q75_1280x720.jpeg",
-      "href": "https://www.nnyy6.top/dongman/58551.html"
-    },
-    {
-      "title": "凡人修仙传",
-      "img": "https://coldstone1900.github.io/filmku/frxxz.webp",
-      "href": "https://www.nnyy6.top/dongman/69970.html"
-    }
+{
+        "title": "完美世界",
+        "img": "https://inews.gtimg.com/newsapp_bt/0/13446522328/1000",
+        "href": "https://www.dandanzan10.top/dongman/86774.html"
+      },
+      {
+        "title": "凡人修仙传：魔道争锋",
+        "img": "https://coldstone1900.github.io/filmku/frxxz.webp",
+        "href": "https://www.dandanzan10.top/dongman/92627.html"
+      },
+      {
+        "title": "假面骑士利维斯",
+        "img": "https://qna.smzdm.com/202110/20/616feda8ec6cd6120.jpg_fo742.jpg",
+        "href": "https://www.dandanzan10.top/dongman/90802.html"
+      },
+      {
+        "title": "九天玄帝诀",
+        "img": "https://n.sinaimg.cn/sinakd20210814s/452/w802h450/20210814/59bf-ab88f2a9fe5d825c671f9b137ef7c7cb.png",
+        "href": "https://www.dandanzan10.top/dongman/90339.html"
+      }
   ],
   "drawer": {
     "txt": "不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。",
