@@ -1,5 +1,5 @@
 {
-  "version": "6.4.1",
+  "version": "6.4.3",
   "update": {
     "version": "6.4.0",
     "message": "修复了一些问题，优化了播放体验"
@@ -39,7 +39,7 @@
     ],
     "unlock_hint": "此为一次性付费，解锁后永久免费使用所有功能"
   },
-  "buffering_timeout": 30,
+  "buffering_timeout": 20,
   "native_play": 1,
   "filter_results_enabled": 0,
   "online_play_source": "© 2018-2022",
@@ -73,26 +73,26 @@
       "href": "https://play.google.com/store/apps/details?id=com.coldstone.topmusic",
       "type": 1
     },
-{
-        "title": "完美世界",
-        "img": "https://inews.gtimg.com/newsapp_bt/0/13446522328/1000",
-        "href": "https://www.dandanzan10.top/dongman/86774.html"
-      },
-      {
-        "title": "凡人修仙传：魔道争锋",
-        "img": "https://coldstone1900.github.io/filmku/frxxz.webp",
-        "href": "https://www.dandanzan10.top/dongman/92627.html"
-      },
-      {
-        "title": "假面骑士利维斯",
-        "img": "https://qna.smzdm.com/202110/20/616feda8ec6cd6120.jpg_fo742.jpg",
-        "href": "https://www.dandanzan10.top/dongman/90802.html"
-      },
-      {
-        "title": "九天玄帝诀",
-        "img": "https://n.sinaimg.cn/sinakd20210814s/452/w802h450/20210814/59bf-ab88f2a9fe5d825c671f9b137ef7c7cb.png",
-        "href": "https://www.dandanzan10.top/dongman/90339.html"
-      }
+    {
+      "title": "完美世界",
+      "img": "https://img1.doubanio.com/view/photo/l/public/p2853695468.jpg",
+      "href": "https://www.dandanzan10.top/dongman/86774.html"
+    },
+    {
+      "title": "斗破苍穹 第四季",
+      "img": "https://img1.doubanio.com/view/photo/l/public/p2626430259.jpg",
+      "href": "https://www.dandanzan10.top/dongman/84968.html"
+    },
+    {
+      "title": "凡人修仙传：魔道争锋",
+      "img": "https://img9.doubanio.com/view/photo/l/public/p2868950484.jpg",
+      "href": "https://www.dandanzan10.top/dongman/92627.html"
+    },
+    {
+      "title": "通灵王",
+      "img": "https://img1.doubanio.com/view/photo/l/public/p2610057468.jpg",
+      "href": "https://www.dandanzan10.top/dongman/85212.html"
+    }
   ],
   "drawer": {
     "txt": "不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。",
@@ -116,7 +116,7 @@
     ],
     "button": "我知道了"
   },
-  "filter_films_enable" : 1,
+  "filter_films_enable": 1,
   "filter_films": [
     "键",
     "金瓶梅",
@@ -283,9 +283,12 @@
     "今日的网漫",
     "撒玛利亚"
   ],
-  "filter_categories": ["伦理"],
-  "excluded_filter_films": ["速度与激情"],
-  "buffering_timeout": 20,
+  "filter_categories": [
+    "伦理"
+  ],
+  "excluded_filter_films": [
+    "速度与激情"
+  ],
   "search_hint_text": "请输入关键词，如\"海贼王\"",
   "play_no_source_hint": "抱歉，该影片暂无播放源，请切换源或者观看其它影片或者稍后重试",
   "playing_error_hint": "抱歉，播放源片段出现错误，请重试后拖出此片段观看或者稍后重试",
