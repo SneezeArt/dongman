@@ -1,11 +1,11 @@
 {
-  "version": "6.4.4",
+  "version": "6.4.5",
   "update": {
     "version": "6.4.0",
     "message": "修复了一些问题，优化了播放体验"
   },
-  "film_url": "https://www.dandanzan10.top",
-  "film_url_host": "www.dandanzan10.top",
+  "film_url": "https://www.nunuyy5.org",
+  "film_url_host": "www.nunuyy5.org",
   "film_m3u8s": [
     ".m3u8",
     ".mp4"
